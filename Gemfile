@@ -65,3 +65,4 @@ gem 'devise', git: 'https://github.com/plataformatec/devise' #, ref: '88e9a85'
 
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 gem "refile-mini_magick"
+gem 'pry-byebug'
